@@ -1,0 +1,23 @@
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#       new file:   FileToBeDeleted.txt
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+<Git/.git/COMMIT_EDITMSG[+] [unix] (17:48 05/11/2020)9,32-38 Bot
+-- REPLACE --
